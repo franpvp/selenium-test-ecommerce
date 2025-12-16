@@ -136,9 +136,6 @@ public class AddToCartTest extends BaseTest {
 
         pausa(50);
 
-
-
-
     }
 
 
